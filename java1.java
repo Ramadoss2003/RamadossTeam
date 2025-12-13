@@ -1,21 +1,14 @@
-import java.util.*;
 
-public class LeapYear {
-	//hi dass
-
-	static Scanner sc = new Scanner(System.in);
-	public static void main(String[] args) {
-		//hi dass
-		
-		System.out.print("Enter your year :");
-		int year = sc.nextInt();
-
-		if (year % 4 == 0 || year % 400 == 0) {
-			System.out.println("Leap year");
-		} else if (year % 100 == 0) {
-			System.out.println("Century");
-		} else {
-			System.out.println("Not a leap year");
-		}
-	}
+class crud
+{
+    int dlt[]=new int[5];
+   
+    //performadd 
+    //perform delete operation
+}
+public static void performadd(int add){
+    
+    
+}
+public static void perfromdlt(int dlt) {
 }
