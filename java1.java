@@ -7,12 +7,13 @@ public class LeapYear {
 		
 		System.out.print("Enter your year :");
 		int year = sc.nextInt();
+		Leapyear(year);
+	}
+	public static void Leapyear(int year){
 
-		if (year % 4 == 0 || year % 400 == 0) {
+		if (year % 4 == 0) {
 			System.out.println("Leap year");
-		} else if (year % 100 == 0) {
-			System.out.println("Century");
-		} else {
+		}  else {
 			System.out.println("Not a leap year");
 		}
 	}
