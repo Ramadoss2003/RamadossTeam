@@ -1,3 +1,4 @@
+
 class crud
 {
     int dlt[]=new int[5];
@@ -10,5 +11,4 @@ public static void performadd(int add){
     
 }
 public static void perfromdlt(int dlt) {
-    
 }
