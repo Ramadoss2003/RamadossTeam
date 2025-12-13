@@ -1,6 +1,6 @@
 class crud
 {
-    int dlt[]=new int[5];
+    int dlt[]=new int[4];
    
     //performadd 
     //perform delete operation
