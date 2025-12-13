@@ -1,6 +1,10 @@
 class crud
 {
-    int a[]=new int[5];
-    //perform add 
+    int add[]=new int[5];
+    performadd 
     //perform delete operation
+}
+public static void performadd(int add){
+    
+    
 }
