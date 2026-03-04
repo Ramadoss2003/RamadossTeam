@@ -1,6 +1,6 @@
 // Package missing 
 
-class crud
+public class crud
 {
     int dlt[]=new int[4];
    
@@ -9,8 +9,9 @@ class crud
 }
 //Unused Method
 public static void performadd(int add){
-    System.out.printn("santhosh added this")
-     System.out.printn("Hari added this")
+    System.out.println("santhosh added this");
+     System.out.println("Hari added this");
+     System.out.println("Girl maddy");
     
     
      
