@@ -7,6 +7,7 @@ class crud
     //perform delete operation
 }
 public static void performadd(int add){
+    System.out.printn("santhosh added this")
     
     
 }
